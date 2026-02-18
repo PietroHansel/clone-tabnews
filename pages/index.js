@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Corrigindo Erro</h1>;
+  return <h1>Erro Corrigido</h1>;
 }
 
 export default Home;
